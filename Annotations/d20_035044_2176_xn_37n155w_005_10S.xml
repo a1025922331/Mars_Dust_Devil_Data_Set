@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>d20_035044_2176_xn_37n155w_005_10S.jpg</filename>
+	<path>C:\Users\郭泽鑫\Desktop\标签制作工具\VOCMaker-master\VOCMaker\VOCMaker\JPEGImages\d20_035044_2176_xn_37n155w_005_10S.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>746</width>
+		<height>746</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dust_devil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>73</xmin>
+			<ymin>452</ymin>
+			<xmax>245</xmax>
+			<ymax>495</ymax>
+		</bndbox>
+	</object>
+</annotation>

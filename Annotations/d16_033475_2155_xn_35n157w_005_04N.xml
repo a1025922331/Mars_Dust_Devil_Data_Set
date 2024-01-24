@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>d16_033475_2155_xn_35n157w_005_04N.jpg</filename>
+	<path>../JPEGImages/d16_033475_2155_xn_35n157w_005_04N.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>795</width>
+		<height>795</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dust_devil</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>707</ymin>
+			<xmax>227</xmax>
+			<ymax>770</ymax>
+		</bndbox>
+	</object>
+</annotation>
